@@ -92,11 +92,14 @@
 		".git",
 		".hg",
 		"CVS",
-                      ".sass-cache"
+		".sass-cache"
 	],
-	"font_face": "Menlo",
-	"font_options": ["no_round"],
-	"font_size": 11,
+	"font_face": "Inconsolata",
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 12,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": true,
@@ -134,7 +137,11 @@
 	"overlay_scroll_bars": "system",
 	"preview_on_click": true,
 	"remember_full_screen": false,
-	"rulers": [80, 120],
+	"rulers":
+	[
+		80,
+		120
+	],
 	"save_on_focus_lost": false,
 	"scroll_past_end": true,
 	"scroll_speed": 1.0,
